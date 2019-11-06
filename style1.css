@@ -116,3 +116,14 @@ body
 {
     background: #e91e63;
 }
+@media (max-width: 700px) { 
+    /* your mobile css version here */
+    body
+    {
+        background-color: #e91e69;
+    }
+    .text
+    {
+        float: left;
+    }
+}
